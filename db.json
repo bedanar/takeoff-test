@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "hello",
+      "body": "hello",
+      "id": 7
+    },
+    {
+      "title": "Hello world",
+      "body": "Hello world",
+      "id": 8
+    },
+    {
+      "title": "Name your contact",
+      "body": "Name your contact",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

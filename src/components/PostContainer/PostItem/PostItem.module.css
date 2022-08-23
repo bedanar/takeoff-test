@@ -1,0 +1,23 @@
+.postItem__delete {
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: #FF4D4D;
+}
+.postItem__update {
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: var(--orange);
+    margin-left: 10px;
+}
+.postItem__title {
+    margin-left: 15px;
+    font-weight: 700;
+}
+.postItem {
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #cacaca;
+}
+.postItem div {
+    margin-top: 15px;
+}

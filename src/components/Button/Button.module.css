@@ -1,0 +1,30 @@
+.black{
+    color: var(--black);
+}
+.orange{
+    color: var(--orange);
+}
+.green {
+    color: var(--green);
+}
+.white{
+    color: var(--white);
+}
+.transparent {
+    background-color: var(--transparent);
+}
+.bg-black{
+    background-color: var(--black);
+}
+.bg-orange{
+    background-color: var(--orange);
+}
+.bg-green {
+    background-color: var(--green);
+}
+.bg-white{
+    background-color: var(--white);
+}
+button {
+    font-size: 24px;
+}

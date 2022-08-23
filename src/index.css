@@ -1,0 +1,19 @@
+:root{
+    --whiteLightness: 100%;
+    --black: #333333;
+    --white: hsl(0, 0%, var(--whiteLightness));
+    --orange: #cc6633;
+    --green: #a4cc33;
+    --transparent: transparent;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+}
+button {
+    border: none;
+}
